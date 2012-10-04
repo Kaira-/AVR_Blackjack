@@ -1,0 +1,7 @@
+Copyright (c) 2011 Teemu Kaukoranta, Jukka Pietilä
+
+This software is delivered with no guarantees and no warranty.
+
+This software was developed using AVRStudio and gcc-compiler. Unfortunately due to copyright reasons 
+lcd.h and lcd.c-files couldn't be added into this repository. The files include necessary macros and
+functions for utilizing the LCD-display. These must be reimplemented if you wish to use this software.
